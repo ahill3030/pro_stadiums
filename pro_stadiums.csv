@@ -1,0 +1,124 @@
+id,stadium,city,state,group,Country,county,fips,team1,lat,long,capacity,opened,cost,price_of_beer,turf,league,sport,text
+1,Angel Stadium,Anaheim,CA,4,US,,,Los Angeles Angels,33.7999,-117.883,45050,04/19/1964,"$24,000,000.00",,Grass,mlb,no,Angel Stadium<br>Capacity: 45050<br>Opened: 23486<br>Multi-sport: no
+2,Arrowhead Stadium,Kansas City,MO,16,US,,,Kansas City Chiefs,39.0489,-94.484,76416,08/12/1972,"$43,000,000.00",,Grass,nfl,no,Arrowhead Stadium<br>Capacity: 76416<br>Opened: 26523<br>Multi-sport: no
+3,AT&T Park,San Francisco,CA,4,US,,,San Francisco Giants,37.7785,-122.39,41915,04/11/2000,"$357,000,000.00",,Grass,mlb,no,AT&T Park<br>Capacity: 41915<br>Opened: 36627<br>Multi-sport: no
+4,AT&T Stadium,Arlington,TX,29,US,,,Dallas Cowboys,32.7478,-97.0928,80000,09/20/2009,"$1,300,000,000.00",,FieldTurf,nfl,no,AT&T Stadium<br>Capacity: 80000<br>Opened: 40076<br>Multi-sport: no
+5,Bank of America Stadium,Charlotte,NC,18,US,,,Carolina Panthers,35.2258,-80.8529,73778,09/14/1996,"$242,000,000.00",,Grass,nfl,no,Bank of America Stadium<br>Capacity: 73778<br>Opened: 35322<br>Multi-sport: no
+6,Busch Stadium,St. Louis,MO,16,US,,,St. Louis Cardinals,38.6223,-90.1939,45529,04/04/2006,"$365,000,000.00",,Grass,mlb,no,Busch Stadium<br>Capacity: 45529<br>Opened: 38811<br>Multi-sport: no
+7,Camden Yards,Baltimore,MD,13,US,,,Baltimore Orioles,39.284,-76.6216,45971,04/06/1992,"$110,000,000.00",,Grass,mlb,no,Camden Yards<br>Capacity: 45971<br>Opened: 33700<br>Multi-sport: no
+8,CenturyLink Field,Seattle,WA,31,US,,,Seattle Seahawks,47.5952,-122.332,67000,09/15/2002,"$360,000,000.00",,FieldTurf,nfl,no,CenturyLink Field<br>Capacity: 67000<br>Opened: 37514<br>Multi-sport: no
+9,Chase Field,Phoenix,AZ,2,US,,,Arizona Diamondbacks,33.4455,-112.067,48519,03/31/1998,"$354,000,000.00",,Grass,mlb,no,Chase Field<br>Capacity: 48519<br>Opened: 35885<br>Multi-sport: no
+10,Citi Field,Queens,NY,21,US,,,New York Mets,40.7563,-73.846,41922,03/29/2009,"$900,000,000.00",,Grass,mlb,no,Citi Field<br>Capacity: 41922<br>Opened: 39901<br>Multi-sport: no
+11,Citizens Bank Park,Philadelphia,PA,26,US,,,Philadelphia Phillies,39.9055,-75.1666,43651,04/03/2004,"$458,000,000.00",,Grass,mlb,no,Citizens Bank Park<br>Capacity: 43651<br>Opened: 38080<br>Multi-sport: no
+12,Comerica Park,Detroit,MI,14,US,,,Detroit Tigers,42.3392,-83.0495,41299,04/11/2000,"$300,000,000.00",,Grass,mlb,no,Comerica Park<br>Capacity: 41299<br>Opened: 36627<br>Multi-sport: no
+13,Coors Field,Denver,CO,5,US,,,Colorado Rockies,39.7559,-104.994,50398,04/26/1995,"$300,000,000.00",,Grass,mlb,no,Coors Field<br>Capacity: 50398<br>Opened: 34815<br>Multi-sport: no
+14,Dodgers Stadium,Los Angeles,CA,4,US,,,Los Angeles Dodgers,34.0727,-118.241,56000,04/10/1962,"$23,000,000.00",,Grass,mlb,no,Dodgers Stadium<br>Capacity: 56000<br>Opened: 22746<br>Multi-sport: no
+15,EverBank Field,Jacksonville,FL,7,US,,,Jacksonville Jaguars,30.3239,-81.6374,67264,08/18/1995,"$134,000,000.00",,Grass,nfl,no,EverBank Field<br>Capacity: 67264<br>Opened: 34929<br>Multi-sport: no
+16,FedEx Field,Landover,MD,13,US,,,Washington Redskins,38.9077,-76.8645,79000,09/14/1997,"$250,000,000.00",,Grass,nfl,no,FedEx Field<br>Capacity: 79000<br>Opened: 35687<br>Multi-sport: no
+17,Fenway Park,Boston,MA,12,US,,,Boston Red Sox,42.3466,-71.097,37673,04/20/1912,"$650,000.00",,Grass,mlb,no,Fenway Park<br>Capacity: 37673<br>Opened: 4494<br>Multi-sport: no
+18,FirstEnergy Stadium,Cleveland,OH,22,US,,,Cleveland Browns,41.506,-81.6996,68000,09/12/1999,"$290,000,000.00",,Grass,nfl,no,FirstEnergy Stadium<br>Capacity: 68000<br>Opened: 36415<br>Multi-sport: no
+19,Ford Field,Detroit,MI,14,US,,,Detroit Lions,42.3402,-83.0458,65000,09/22/2002,"$430,000,000.00",,FieldTurf,nfl,no,Ford Field<br>Capacity: 65000<br>Opened: 37521<br>Multi-sport: no
+20,Mercedes Benz Stadium,Atlanta,GA,8,US,,,Atlanta Falcons,33.7576,-84.401,71250,09/06/1992,"$214,000,000.00",,FieldTurf,nfl,no,Mercedes Benz Stadium<br>Capacity: 71250<br>Opened: 33853<br>Multi-sport: no
+21,Gillette Stadium,Foxborough,MA,12,US,,,New England Patriots,29.9509,-90.0814,68756,09/09/2002,"$325,000,000.00",,Fieldturf,nfl,no,Gillette Stadium<br>Capacity: 68756<br>Opened: 37508<br>Multi-sport: no
+22,Globe Life Park,Arlington,TX,29,US,,,Texas Rangers,32.7511,-97.0825,49115,04/01/1994,"$191,000,000.00",,Grass,mlb,no,Globe Life Park<br>Capacity: 49115<br>Opened: 34425<br>Multi-sport: no
+23,Great American Ballpark,Cincinnati,OH,22,US,,,Cincinnati Reds,39.0979,-84.5082,42319,03/31/2003,"$290,000,000.00",,Grass,mlb,no,Great American Ballpark<br>Capacity: 42319<br>Opened: 37711<br>Multi-sport: no
+24,Guaranteed Rate Field,Chicago,IL,9,US,,,Chicago White Sox,41.8299,-87.6335,40615,04/18/1991,"$137,000,000.00",,Grass,mlb,no,Guaranteed Rate Field<br>Capacity: 40615<br>Opened: 33346<br>Multi-sport: no
+25,Hard Rock Stadium,Miami Gardens,FL,7,US,,,Miami Dolphins,44.9739,-93.2581,65326,08/16/1987,"$115,000,000.00",,Grass,nfl,no,Hard Rock Stadium<br>Capacity: 65326<br>Opened: 32005<br>Multi-sport: no
+26,Heinz Field,Pittsburgh,PA,26,US,,,Pittsburgh Steelers,40.4468,-80.0158,65500,10/07/2001,"$281,000,000.00",,Grass,nfl,no,Heinz Field<br>Capacity: 65500<br>Opened: 37171<br>Multi-sport: no
+27,Kauffman Stadium,Kansas City,MO,16,US,,,Kansas City Royals,39.0511,-94.4811,37903,04/10/1973,"$70,000,000.00",,Grass,mlb,no,Kauffman Stadium<br>Capacity: 37903<br>Opened: 26764<br>Multi-sport: no
+28,Lambeau Field,Green Bay,WI,32,US,,,Green Bay Packers,44.5013,-88.0622,80735,09/29/1957,"$960,000.00",,Grass,nfl,no,Lambeau Field<br>Capacity: 80735<br>Opened: 21092<br>Multi-sport: no
+29,Levi's Stadium,Santa Clara,CA,4,US,,,San Francisco 49ers,37.7135,-122.386,68500,09/14/2014,"$1,300,000,000.00",,Grass,nfl,no,Levi's Stadium<br>Capacity: 68500<br>Opened: 41896<br>Multi-sport: no
+30,Lincoln Financial Field,Philadelphia,PA,26,US,,,Philadelphia Eagles,39.9008,-75.1674,69176,09/08/2003,"$518,000,000.00",,Grass,nfl,no,Lincoln Financial Field<br>Capacity: 69176<br>Opened: 37872<br>Multi-sport: no
+31,Los Angeles Coliseum,Los Angeles,CA,4,US,,,Los Angeles Rams,25.9579,-80.2388,93605,09/18/2016,"$954,872.00",,Grass,nfl,no,Los Angeles Coliseum<br>Capacity: 93605<br>Opened: 42631<br>Multi-sport: no
+32,Lucas Oil Stadium,Indianapolis,IN,10,US,,,Indianapolis Colts,39.7601,-86.1638,63000,09/07/2008,"$720,000,000.00",,Fieldturf,nfl,no,Lucas Oil Stadium<br>Capacity: 63000<br>Opened: 39698<br>Multi-sport: no
+33,M&T Bank Stadium,Baltimore,MD,13,US,,,Baltimore Ravens,39.278,-76.6228,71008,09/06/1998,"$220,000,000.00",,Fieldturf,nfl,no,M&T Bank Stadium<br>Capacity: 71008<br>Opened: 36044<br>Multi-sport: no
+34,Marlins Park,Miami,FL,7,US,,,Miami Marlins,25.7787,-80.2203,36742,03/05/2012,"$634,000,000.00",,Grass,mlb,no,Marlins Park<br>Capacity: 36742<br>Opened: 40973<br>Multi-sport: no
+35,MetLife Stadium,East Rutherford,NJ,19,US,,,New York Giants/Jets,40.8122,-74.077,82500,09/12/2010,"$1,600,000,000.00",,FieldTurf,nfl,no,MetLife Stadium<br>Capacity: 82500<br>Opened: 40433<br>Multi-sport: no
+36,Miller Park,Milwaukee,WI,32,US,,,Milwaukee Brewers,43.028,-87.9712,41900,04/06/2001,"$400,000,000.00",,Grass,mlb,no,Miller Park<br>Capacity: 41900<br>Opened: 36987<br>Multi-sport: no
+37,Minute Maid Park,Houston,TX,29,US,,,Houston Astros,29.757,-95.3548,40950,03/30/2000,"$250,000,000.00",,Grass,mlb,no,Minute Maid Park<br>Capacity: 40950<br>Opened: 36615<br>Multi-sport: no
+38,Nationals Park,Washington,DC,6,US,,,Washington Nationals,38.873,-77.0075,41313,03/30/2008,"$693,000,000.00",,Grass,mlb,no,Nationals Park<br>Capacity: 41313<br>Opened: 39537<br>Multi-sport: no
+39,New Era Field,Orchard Park,NY,21,US,,,Buffalo Bills,42.7737,-78.787,73967,08/17/1973,"$22,000,000.00",,FieldTurf,nfl,no,New Era Field<br>Capacity: 73967<br>Opened: 26893<br>Multi-sport: no
+40,Nissan Stadium,Nashville,TN,28,US,,,Tennessee Titans,36.1665,-86.7713,69143,09/12/1999,"$290,000,000.00",,Grass,nfl,no,Nissan Stadium<br>Capacity: 69143<br>Opened: 36415<br>Multi-sport: no
+41,NRG Stadium,Houston,TX,29,US,,,Houston Texans,29.6848,-95.411,71500,09/08/2002,"$449,000,000.00",,Grass,nfl,no,NRG Stadium<br>Capacity: 71500<br>Opened: 37507<br>Multi-sport: no
+42,Oakland Coliseum,Oakland,CA,4,US,,,Oakland Raiders,37.7514,-122.201,53250,09/18/1966,"$25,500,000.00",,Grass,nfl,yes,Oakland Coliseum<br>Capacity: 53250<br>Opened: 24368<br>Multi-sport: yes
+43,Paul Brown Stadium,Cincinnati,OH,22,US,,,Cincinnati Bengals,39.0954,-84.516,65515,09/10/2000,"$450,000,000.00",,Fieldturf,nfl,no,Paul Brown Stadium<br>Capacity: 65515<br>Opened: 36779<br>Multi-sport: no
+44,Petco Park,San Diego,CA,4,US,,,San Diego Padres,32.7077,-117.157,42445,04/08/2004,"$450,000,000.00",,Grass,mlb,no,Petco Park<br>Capacity: 42445<br>Opened: 38085<br>Multi-sport: no
+45,PNC Park,Pittsburgh,PA,26,US,,,Pittsburgh Pirates,40.4473,-80.0068,38362,03/31/2001,"$216,000,000.00",,Grass,mlb,no,PNC Park<br>Capacity: 38362<br>Opened: 36981<br>Multi-sport: no
+46,Qualcomm Stadium,San Diego,CA,4,US,,,San Diego Chargers,32.7831,-117.12,71500,08/20/1967,"$27,000,000.00",,Grass,nfl,no,Qualcomm Stadium<br>Capacity: 71500<br>Opened: 24704<br>Multi-sport: no
+47,Raymond James Stadium,Tampa,FL,7,US,,,Tampa Bay Buccaneers,27.976,-82.5033,65890,09/20/1998,"$194,000,000.00",,Grass,nfl,no,Raymond James Stadium<br>Capacity: 65890<br>Opened: 36058<br>Multi-sport: no
+48,Rogers Centre,Toronto,ON,24,CA,,,Toronto Blue Jays,43.6411,-79.3897,50516,06/05/1989,"$500,000,000.00",,FieldTurf,mlb,no,Rogers Centre<br>Capacity: 50516<br>Opened: 32664<br>Multi-sport: no
+49,Safeco Field,Seattle,WA,31,US,,,Seattle Mariners,47.5914,-122.332,47943,07/15/1999,"$517,000,000.00",,Grass,mlb,no,Safeco Field<br>Capacity: 47943<br>Opened: 36356<br>Multi-sport: no
+50,Soldier Field,Chicago,IL,9,US,,,Chicago Bears,41.8623,-87.6167,61500,09/29/2003,"$600,000,000.00",,Grass,nfl,no,Soldier Field<br>Capacity: 61500<br>Opened: 37893<br>Multi-sport: no
+51,Sports Authority Field,Denver,CO,5,US,,,Denver Broncos,39.7439,-105.02,76125,09/10/2001,"$364,000,000.00",,Grass,nfl,no,Sports Authority Field<br>Capacity: 76125<br>Opened: 37144<br>Multi-sport: no
+52,Suntrust Park,Atlanta,GA,8,US,,,Atlanta Braves,33.7348,-84.39,41149,03/31/2017,"$622,000,000.00",,Grass,mlb,no,Suntrust Park<br>Capacity: 41149<br>Opened: 42825<br>Multi-sport: no
+53,Mercedes Benz Superdome,New Orleans,LA,11,US,,,New Orleans Saints,40.8122,-74.077,76468,09/28/1975,"$134,000,000.00",,FieldTurf,nfl,no,Mercedes Benz Superdome<br>Capacity: 76468<br>Opened: 27665<br>Multi-sport: no
+54,Target Field,Minneapolis,MN,15,US,,,Minnesota Twins,44.9817,-93.2773,39504,04/12/2010,"$555,000,000.00",,Grass,mlb,no,Target Field<br>Capacity: 39504<br>Opened: 40280<br>Multi-sport: no
+55,Tropicana Field,St. Petersburg,FL,7,US,,,Tampa Bay Rays,27.7682,-82.6535,42735,03/31/1998,"$115,000,000.00",,Grass,mlb,no,Tropicana Field<br>Capacity: 42735<br>Opened: 35885<br>Multi-sport: no
+56,University of Phoenix Stadium,Glendale,AZ,2,US,,,Arizona Cardinals,33.5277,-112.263,63400,09/10/2006,"$455,000,000.00",,Grass,nfl,no,University of Phoenix Stadium<br>Capacity: 63400<br>Opened: 38970<br>Multi-sport: no
+57,US Bank Stadium,Minneapolis,MN,15,US,,,Minnesota Vikings,42.0909,-71.2644,66200,09/18/2016,"$1,100,000,000.00",,FieldTurg,nfl,no,US Bank Stadium<br>Capacity: 66200<br>Opened: 42631<br>Multi-sport: no
+58,Wrigley Field,Chicago,IL,9,US,,,Chicago Cubs,41.9479,-87.6559,41268,04/23/1914,"$250,000.00",,Grass,mlb,no,Wrigley Field<br>Capacity: 41268<br>Opened: 5227<br>Multi-sport: no
+59,Yankee Stadium,Bronx,NY,21,US,,,New York Yankees,40.8293,-73.9277,50287,04/16/2009,"$1,600,000,000.00",,Grass,mlb,no,Yankee Stadium<br>Capacity: 50287<br>Opened: 39919<br>Multi-sport: no
+60,StubHub Center,Carson,CA,4,US,,,Los Angeles Chargers,34.0727,-118.241,30000,01/01/2003,"$150,000,000.00",,Grass,nfl,no,StubHub Center<br>Capacity: 30000<br>Opened: 37622<br>Multi-sport: no
+61,Air Canada Centre,Toronto,ON,24,CA,,,Toronto Maple Leafs,43.6433,-79.3792,18819,03/12/1997,"$265,000,000.00",,ice,nhl,yes,Air Canada Centre<br>Capacity: 18819<br>Opened: 35501<br>Multi-sport: yes
+62,Amalie Arena,Tampa,FL,7,US,,,Tampa Bay Lightning,27.9428,-82.4519,19092,10/20/1996,"$139,000,000.00",,ice,nhl,no,Amalie Arena<br>Capacity: 19092<br>Opened: 35358<br>Multi-sport: no
+63,American Airlines Center,Dallas,TX,29,US,,,Dallas Stars,32.7906,-96.8103,18532,07/17/2001,"$420,000,000.00",,ice,nhl,yes,American Airlines Center<br>Capacity: 18532<br>Opened: 37089<br>Multi-sport: yes
+64,BB&T Center,Sunrise,FL,7,US,,,Florida Panthers,26.1583,-80.3256,19250,10/03/1998,"$185,000,000.00",,Ice,nhl,no,BB&T Center<br>Capacity: 19250<br>Opened: 36071<br>Multi-sport: no
+65,Barclays Center,Brooklyn,NY,21,US,,,NY Islanders,40.7228,-73.5906,15795,09/21/2012,"$1,000,000,000.00",,Ice,nhl,yes,Barclays Center<br>Capacity: 15795<br>Opened: 41173<br>Multi-sport: yes
+66,Bell Centre,Montreal,QC,27,CA,,,Montreal Canadiens,45.4961,-73.5694,21288,03/16/1996,"$270,000,000.00",,Ice,nhl,no,Bell Centre<br>Capacity: 21288<br>Opened: 35140<br>Multi-sport: no
+67,Bell MTS Place,Winnipeg,MT,17,CA,,,Winnipeg Jets,49.8928,-97.1436,15294,11/16/2004,"$133,500,000.00",,Ice,nhl,no,Bell MTS Place<br>Capacity: 15294<br>Opened: 38307<br>Multi-sport: no
+68,Bridgestone Arena,Nashville,TN,28,US,,,Nashville Predators,36.1592,-86.7786,17113,12/18/1996,"$144,000,000.00",,Ice,nhl,no,Bridgestone Arena<br>Capacity: 17113<br>Opened: 35417<br>Multi-sport: no
+69,Canadian Tire Centre,Ottawa,ON,24,CA,,,Ottawa Senators,45.2969,-75.9272,17000,01/15/1996,"$170,000,000.00",,Ice,nhl,no,Canadian Tire Centre<br>Capacity: 17000<br>Opened: 35079<br>Multi-sport: no
+70,Capital One Arena,Washington,DC,6,US,,,Washington Capitals,38.8981,-77.0208,18506,12/02/1997,"$260,000,000.00",,Ice,nhl,yes,Capital One Arena<br>Capacity: 18506<br>Opened: 35766<br>Multi-sport: yes
+71,Gila River Arena,Glendale,AZ,2,US,,,Arizona Coyotes,33.5319,-112.261,17125,12/26/2003,"$220,000,000.00",,Ice,nhl,no,Gila River Arena<br>Capacity: 17125<br>Opened: 37981<br>Multi-sport: no
+72,Honda Center,Anaheim,CA,4,US,,,Anaheim Ducks,33.8078,-117.877,17174,06/19/1993,"$123,000,000.00",,Ice,nhl,no,Honda Center<br>Capacity: 17174<br>Opened: 34139<br>Multi-sport: no
+73,KeyBank Center,Buffalo,NY,21,US,,,Buffalo Sabres,42.875,-78.8764,19070,09/21/1996,"$127,500,000.00",,Ice,nhl,no,KeyBank Center<br>Capacity: 19070<br>Opened: 35329<br>Multi-sport: no
+74,Little Caesars Arena,Detroit,MI,14,US,,,Detroit Red Wings,42.3253,-83.0514,20000,09/05/2017,"$862,900,000.00",,Ice,nhl,yes,Little Caesars Arena<br>Capacity: 20000<br>Opened: 42983<br>Multi-sport: yes
+75,Madison Square Garden,New York,NY,21,US,,,NY Rangers,40.7506,-73.9936,18006,02/11/1968,"$123,000,000.00",,Ice,nhl,yes,Madison Square Garden<br>Capacity: 18006<br>Opened: 24879<br>Multi-sport: yes
+76,Nationwide Arena,Columbus,OH,22,US,,,Columbus Blue Jackets,39.9693,-83.0061,18500,09/09/2000,"$175,000,000.00",,Ice,nhl,no,Nationwide Arena<br>Capacity: 18500<br>Opened: 36778<br>Multi-sport: no
+77,Pepsi Center,Denver,CO,5,US,,,Colorado Avalanche,39.7486,-105.007,18007,10/01/1999,"$187,000,000.00",,Ice,nhl,yes,Pepsi Center<br>Capacity: 18007<br>Opened: 36434<br>Multi-sport: yes
+78,PNC Arena,Raleigh,NC,18,US,,,Carolina Hurricanes,35.8033,-78.7219,18680,10/29/1999,"$158,000,000.00",,Ice,nhl,no,PNC Arena<br>Capacity: 18680<br>Opened: 36462<br>Multi-sport: no
+79,PPG Paints Arena,Pittsburgh,PA,26,US,,,Pittsburgh Penguins,40.4394,-79.9892,18387,08/18/2010,"$321,000,000.00",,Ice,nhl,no,PPG Paints Arena<br>Capacity: 18387<br>Opened: 40408<br>Multi-sport: no
+80,Prudential Center,Newark,NJ,19,US,,,New Jersey Devils,40.7336,-74.1711,17625,10/25/2007,"$375,000,000.00",,Ice,nhl,no,Prudential Center<br>Capacity: 17625<br>Opened: 39380<br>Multi-sport: no
+81,Rogers Arena,Vancouver,BC,3,CA,,,Vancouver Canucks,49.2778,-123.109,18910,07/13/1993,"$160,000,000.00",,Ice,nhl,no,Rogers Arena<br>Capacity: 18910<br>Opened: 34163<br>Multi-sport: no
+82,Rogers Place,Edmonton,AB,1,CA,,,Edmonton Oilers,53.5714,-113.456,18641,09/08/2016,"$480,000,000.00",,Ice,nhl,no,Rogers Place<br>Capacity: 18641<br>Opened: 42621<br>Multi-sport: no
+83,Scotiabank Saddledome,Calgary,AB,1,CA,,,Calgary Flames,51.0375,-114.052,19289,10/15/1983,"$97,700,000.00",,Ice,nhl,no,Scotiabank Saddledome<br>Capacity: 19289<br>Opened: 30604<br>Multi-sport: no
+84,SAP Center,San Jose,CA,4,US,,,San Jose Sharks,37.3328,-121.901,17562,06/28/1990,"$162,500,000.00",,Ice,nhl,no,SAP Center<br>Capacity: 17562<br>Opened: 33052<br>Multi-sport: no
+85,Scottrade Center,St. Louis,MO,16,US,,,St. Louis Blues,38.6267,-90.2025,19150,10/08/1994,"$135,000,000.00",,Ice,nhl,no,Scottrade Center<br>Capacity: 19150<br>Opened: 34615<br>Multi-sport: no
+86,Staples Center,Los Angeles,CA,4,US,,,Los Angeles Clippers,34.043,-118.267,18230,10/17/1999,"$375,000,000.00",,Hardwood,nba,yes,Staples Center<br>Capacity: 18230<br>Opened: 36450<br>Multi-sport: yes
+87,TD Garden,Boston,MA,12,US,,,Boston Bruins,42.3663,-71.0622,17765,09/30/1995,"$160,000,000.00",,Ice,nhl,yes,TD Garden<br>Capacity: 17765<br>Opened: 34972<br>Multi-sport: yes
+88,T-Mobile Arena,Paradise,NV,20,US,,,Vegas Golden Knights,36.1024,-115.1776,17368,04/06/2016,"$375,000,000.00",,Ice,nhl,no,T-Mobile Arena<br>Capacity: 17368<br>Opened: 42466<br>Multi-sport: no
+89,United Center,Chicago,IL,9,US,,,Chicago Blackhawks,41.8806,-87.6742,19717,08/18/1994,"$175,000,000.00",,Ice,nhl,yes,United Center<br>Capacity: 19717<br>Opened: 34564<br>Multi-sport: yes
+90,Wells Fargo Center,Philadelphia,PA,26,US,,,Philadelphia Flyers,39.9011,-75.1719,19543,08/13/1996,"$210,000,000.00",,Ice,nhl,yes,Wells Fargo Center<br>Capacity: 19543<br>Opened: 35290<br>Multi-sport: yes
+91,Xcel Energy Center,St. Paul,MN,15,US,,,Minnesota Wild,44.9447,-93.1011,17954,09/29/2000,"$170,000,000.00",,Ice,nhl,no,Xcel Energy Center<br>Capacity: 17954<br>Opened: 36798<br>Multi-sport: no
+92,Air Canada Centre,Toronto,ON,24,CA,,,Toronto Raptors,43.6433,-79.3791,19800,01/01/99,"$265,000,000.00",,Hardwood,nba,yes,Air Canada Centre<br>Capacity: 19800<br>Opened: 36161<br>Multi-sport: yes
+93,American Airlines Arena,Miami,FL,7,US,,,Miami Heat,25.7814,-80.1878,19600,01/01/99,"$213,000,000.00",,Hardwood,nba,no,American Airlines Arena<br>Capacity: 19600<br>Opened: 36161<br>Multi-sport: no
+94,American Airlines Center,Dallas,TX,29,US,,,Dallas Mavericks,32.7904,-96.8103,19200,07/17/01,"$420,000,000.00",,Hardwood,nba,yes,American Airlines Center<br>Capacity: 19200<br>Opened: 37089<br>Multi-sport: yes
+95,Amway Center,Orlando,FL,7,US,,,Orlando Magic,28.5392,-81.3836,18846,10/01/10,"$480,000,000.00",,Hardwood,nba,no,Amway Center<br>Capacity: 18846<br>Opened: 40452<br>Multi-sport: no
+96,AT&T Center,San Antonio,TX,29,US,,,San Antonio Spurs,29.4269,-98.4375,18418,10/18/02,"$186,000,000.00",,Hardwood,nba,no,AT&T Center<br>Capacity: 18418<br>Opened: 37547<br>Multi-sport: no
+97,Bankers Life Fieldhouse,Indianapolis,IN,10,US,,,Indiana Pacers,39.7639,-86.1556,17923,11/06/99,"$183,000,000.00",,Hardwood,nba,no,Bankers Life Fieldhouse<br>Capacity: 17923<br>Opened: 36470<br>Multi-sport: no
+98,Barclays Center,Brooklyn,NY,21,US,,,Brooklyn Nets,40.6827,-73.9747,17732,09/21/12,"$1,000,000,000.00",,Hardwood,nba,yes,Barclays Center<br>Capacity: 17732<br>Opened: 41173<br>Multi-sport: yes
+99,Bradley Center,Milwaukee,WI,32,US,,,Milwaukee Bucks,43.0436,-87.9168,18717,10/01/88,"$91,000,000.00",,Hardwood,nba,no,Bradley Center<br>Capacity: 18717<br>Opened: 32417<br>Multi-sport: no
+100,Capital One Arena,Washington,DC,6,US,,,Washington Wizards,38.898,-77.021,20356,12/02/97,"$260,000,000.00",,Hardwood,nba,yes,Capital One Arena<br>Capacity: 20356<br>Opened: 35766<br>Multi-sport: yes
+101,Chesapeake Energy Arena,Oklahoma City,OK,23,US,,,Oklahoma City Thunder,35.4633,-97.515,18203,06/08/02,"$89,200,000.00",,Hardwood,nba,no,Chesapeake Energy Arena<br>Capacity: 18203<br>Opened: 37415<br>Multi-sport: no
+102,FedExForum,Memphis,TN,28,US,,,Memphis Grizzlies,35.1383,-90.0506,18119,09/06/04,"$250,000,000.00",,Hardwood,nba,no,FedExForum<br>Capacity: 18119<br>Opened: 38236<br>Multi-sport: no
+103,Golden 1 Center,Sacramento,CA,4,US,,,Sacramento Kings,38.6491,-121.518,17608,09/30/16,"$558,200,000.00",,Hardwood,nba,no,Golden 1 Center<br>Capacity: 17608<br>Opened: 42643<br>Multi-sport: no
+104,Little Caesars Arena,Detroit,MI,14,US,,,Detroit Pistons,42.6969,-83.2456,21000,09/05/17,"$862,900,000.00",,Hardwood,nba,yes,Little Caesars Arena<br>Capacity: 21000<br>Opened: 42983<br>Multi-sport: yes
+105,Madison Square Garden,New York,NY,21,US,,,New York Knicks,40.7505,-73.9936,19812,02/11/68,"$123,000,000.00",,Hardwood,nba,yes,Madison Square Garden<br>Capacity: 19812<br>Opened: 24879<br>Multi-sport: yes
+106,Moda Center,Portland,OR,25,US,,,Portland Trail Blazers,45.5314,-122.667,19980,10/12/95,"$262,000,000.00",,Hardwood,nba,no,Moda Center<br>Capacity: 19980<br>Opened: 34984<br>Multi-sport: no
+107,Oracle Arena,Oakland,CA,4,US,,,Golden State Warriors,37.7503,-122.203,19596,11/09/66,"$24,000,000.00",,Hardwood,nba,no,Oracle Arena<br>Capacity: 19596<br>Opened: 24420<br>Multi-sport: no
+108,Pepsi Center,Denver,CO,5,US,,,Denver Nuggets,39.7486,-105.008,19155,10/01/99,"$187,000,000.00",,Hardwood,nba,yes,Pepsi Center<br>Capacity: 19155<br>Opened: 36434<br>Multi-sport: yes
+109,Philips Arena,Atlanta,GA,8,US,,,Atlanta Hawks,33.7572,-84.3963,15700,09/18/99,"$213,500,000.00",,Hardwood,nba,no,Philips Arena<br>Capacity: 15700<br>Opened: 36421<br>Multi-sport: no
+110,Quicken Loans Arena,Cleveland,OH,22,US,,,Cleveland Cavaliers,41.4967,-81.6881,20562,10/17/94,"$100,000,000.00",,Hardwood,nba,no,Quicken Loans Arena<br>Capacity: 20562<br>Opened: 34624<br>Multi-sport: no
+111,Smoothie King Center,New Orleans,LA,11,US,,,New Orleans Pelicans,29.9489,-90.0822,16867,10/29/99,"$114,000,000.00",,Hardwood,nba,no,Smoothie King Center<br>Capacity: 16867<br>Opened: 36462<br>Multi-sport: no
+112,Spectrum Center,Charlotte,NC,18,US,,,Charlotte Hornets,35.2245,-80.841,19077,10/21/05,"$260,000,000.00",,Hardwood,nba,no,Spectrum Center<br>Capacity: 19077<br>Opened: 38646<br>Multi-sport: no
+113,Talking Stick Resort Arena,Phoenix,AZ,2,US,,,Phoenix Suns,33.4457,-112.071,18422,06/06/92,"$90,000,000.00",,Hardwood,nba,no,Talking Stick Resort Arena<br>Capacity: 18422<br>Opened: 33761<br>Multi-sport: no
+114,Target Center,Minneapolis,MN,15,US,,,Minnesota Timberwolves,44.9794,-93.2761,19356,10/13/90,"$104,000,000.00",,Hardwood,nba,no,Target Center<br>Capacity: 19356<br>Opened: 33159<br>Multi-sport: no
+115,TD Garden,Boston,MA,12,US,,,Boston Celtics,42.3663,-71.0623,18624,09/30/95,"$160,000,000.00",,Hardwood,nba,yes,TD Garden<br>Capacity: 18624<br>Opened: 34972<br>Multi-sport: yes
+116,Toyota Center,Houston,TX,29,US,,,Houston Rockets,29.7508,-95.3622,18055,10/06/03,"$235,000,000.00",,Hardwood,nba,no,Toyota Center<br>Capacity: 18055<br>Opened: 37900<br>Multi-sport: no
+117,United Center,Chicago,IL,9,US,,,Chicago Bulls,41.8806,-87.6741,20917,08/18/94,"$175,000,000.00",,Hardwood,nba,yes,United Center<br>Capacity: 20917<br>Opened: 34564<br>Multi-sport: yes
+118,Vivint Smart Home Arena,Salt Lake City,UT,30,US,,,Utah Jazz,40.7683,-111.901,19911,10/04/91,"$93,000,000.00",,Hardwood,nba,no,Vivint Smart Home Arena<br>Capacity: 19911<br>Opened: 33515<br>Multi-sport: no
+119,Wells Fargo Center,Philadelphia,PA,26,US,,,Philadelphia 76ers,39.9011,-75.1717,20328,08/13/96,"$210,000,000.00",,Hardwood,nba,yes,Wells Fargo Center<br>Capacity: 20328<br>Opened: 35290<br>Multi-sport: yes
+120,Oakland Coliseum,Oakland,CA,4,US,,,Oakland Athletics,37.7516,-122.201,53250,09/18/1966,"$25,500,000.00",,Grass,mlb,yes,Oakland Coliseum<br>Capacity: 53250<br>Opened: 24368<br>Multi-sport: yes
+121,Staples Center,Los Angeles,CA,4,US,,,Los Angeles Lakers,34.043,-118.267,18230,10/17/1999,"$375,000,000.00",,Hardwood,nba,yes,Staples Center<br>Capacity: 18230<br>Opened: 36450<br>Multi-sport: yes
+122,Staples Center,Los Angeles,CA,4,US,,,Los Angeles Kings,34.0431,-118.267,18230,10/17/1999,"$375,000,000.00",,Ice,nhl,yes,Staples Center<br>Capacity: 18230<br>Opened: 36450<br>Multi-sport: yes
+123,Progressive Field,Cleveland,OH,22,US,,,Cleveland Indians,41.4962,-81.6852,35225,04/02/1994,"$175,000,000.00",,Grass,mlb,no,Progressive Field<br>Capacity: 35225<br>Opened: 34426<br>Multi-sport: no
